@@ -16,13 +16,13 @@ public class Question28 {
 
     private static boolean less(int a,int b) {
         return a<b?true:false;
-    } //??
+    } //比较
 
     private static void exch(int[] a,int i,int min) {
         int temp=a[i];
         a[i]=a[min];
         a[min]=temp;
-    } //??
+    } //交换
 
     public static void main(String[] args) {
         System.out.println("?????:");
