@@ -36,3 +36,4 @@
 |   27  |               求素数                  |            [查看题解](./java/Question27.java)         |
 |   28  |               排序算法                |            [查看题解](./java/Question28.java)         |
 |   29  |          求矩阵对角线之和              |            [查看题解](./java/Question29.java)         |
+|   29  |               插入数字                |            [查看题解](./java/Question30.java)         |
