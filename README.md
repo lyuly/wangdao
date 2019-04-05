@@ -38,3 +38,4 @@
 |   29  |          求矩阵对角线之和              |            [查看题解](./java/Question29.java)         |
 |   30  |               插入数字                |            [查看题解](./java/Question30.java)         |
 |   31  |               数组逆序                |            [查看题解](./java/Question31.java)         |
+|   32  |               左移右移                |            [查看题解](./java/Question32.java)         |
